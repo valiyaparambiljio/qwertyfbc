@@ -1,0 +1,7 @@
+{
+  "name": "fbc",
+  "description": "Professional accountancy and business consultancy website for Fraternal Business Care, showcasing services, international presence, and corporate advisory expertise.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
